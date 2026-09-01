@@ -1,0 +1,63 @@
+LG 디스플레이 기능직 신입사원 교육때 필기한거
+카세트(cst) : glass 를 담는 용기
+
+LOT : 최소 생산 단위 (1 CST가 1 LOT 임)
+
+ROBOT: CST에 담긴 Glass를 이송시키는 로봇
+
+Emergency or EMO : 문제발생 시 기계의 Power를 차단시키는 비상정지 장치
+
+STK (Stocker) : Cassette 보관장소, 제품을 저장하는 창고
+
+AGV : Cassette 또는 Mask를 자동으로 운송하는 무인 장치
+
+MGV : Cassette를 이동시킬 수 있는 수동 이동 대차
+
+Particle : 먼지나 반응생성물, 기판이나 주변재료로부터 떨어져 나온 박리물. 블량 발생의 주요 요인
+
+Fab : LCD 생산을 위해 먼지나 소음, 자장 등 으로부터 완벽하게 보호할 수 있도록 설계된 공장
+
+C/R : 청정실 Particle 발생을 억제하고 Filter 를 사용하여 발생된 Particle을 제거하여 먼지가 거의 없는 밀폐된 공간
+
+Smock : C/R 내에 사람으로부터 발생되는 Particle 발생을 차단하는 방진복
+
+Air Shower : Fab 내 청정도를 유지하기 위한 Particle 감소의 방법으로 청장한 공기를 고속으로 분사하여 인체의 먼지를 털어내는 기기
+
+House Keeping : C/R 의 오염을 방지하기 위한 기본준수 정착 및 불합리 요소
+ 
+5S : 정리 정돈 청소 청결 습관화
+
+IPA(이소프로필 알콜) : 장비 외관 및 기타 닦는데 사용
+
+Wiper : 장비나 C/R내 방입디는 자재 Cleaning 시 사용하는 특수 처리된 천
+
+DI Water : 초순수 물
+
+Spec :  규격, 범위
+
+PQC : 단위 또는 종합 Process의 품질관리를 위한 System 또는 조직
+
+이상발생통보서 : 팹의 공정상 품질상 등의 문제 발생으로 인하여 해당부서에 통보하고 조치하기 위하여 발생하는 통보서
+
+UI(User Interface) : 현장에서 작업자가 작업상황을 key-in 할 수 있는 Computer
+
+Tact Time : 공정 진행에 소요되는 시간으로 장비에서 공정 진행 시 이전 제품의 공정이 완료된 시점에서 다음 제품의 공정의 완료까지의 시간
+
+TAT : 전 공정시간. 한 공정에 제품이 착공되어 공정을 진행하고 완공될 때까지 걸리는 시간
+        첫 Glass가 나오기까지 시간(=Lead time)
+
+Capa : 처리능력
+
+Run sheet : Lot 별로 공정진행 경로를 표기한 공정 진행표
+
+MMG : 다중 모델 생산방식
+
+Scratch : Glass 표면에 긁힘이나 흠집
+
+Scrap : 불량 Glass, 실험이나 목적이 끝난 Glass를 폐기 하는 것
+
+Sputter : 고전압을 인가하여 금속 입자를 떼어내어 Glass 표면에 증착 시키는 것
+
+Patterning : PR(Photo Resister) 을 도포, 노광, 현상 등의 공정을 통해 원하는 현태의 구조로 변화시키는 방법
+
+Etch(식각) : 필요한 부분만 남기고 나머지는 깎아내는 공정, Dry Etch와 Wet Etch 가 있다.
