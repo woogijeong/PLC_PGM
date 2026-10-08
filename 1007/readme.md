@@ -6,6 +6,7 @@ serial : RAR-JRT-8X6
 ## 프로젝트 제출물
 
 0. 조별 계획서
+
 1.보고서 + 사진
 2. 발표자료 ppt
 3. 동영상 ( plc , hmi , scada 연동 )
