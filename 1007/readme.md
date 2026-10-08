@@ -1,4 +1,4 @@
-### Factory I/O
+# Factory I/O
 ## 프로젝트 제출물
 
 0. 조별 계획서
