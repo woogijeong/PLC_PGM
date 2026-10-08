@@ -1,4 +1,8 @@
 # Factory I/O
+
+화면 공유 코드 : 2606
+
+serial : RAR-JRT-8X6
 ## 프로젝트 제출물
 
 0. 조별 계획서
@@ -18,7 +22,7 @@ AI로 트윈 분석 -> 변경안 실험 -> 검증 적용
 
 # 서버 연결
 1. MX OPC
-2. New MX Devie
+2. New MX Device
 3. GX Simulator2
 4. factory I/o Files
 5. drivers
