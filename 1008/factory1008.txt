@@ -12,11 +12,14 @@ p1 back : x3
 p1 front : x4
 p2 back : x5
 p2 front : x6
+p3 back : x7
+p3 front : x8
 
 
-green sen : x7
-metal sen : x8
-blue sen : x9
+blue sen : x10
+metal sen : x11
+green sen : x12
+trash sen : x13
 
 
 blue : 1
@@ -24,17 +27,18 @@ green : 4
 metal : 7
 
 conv : y20
+conv2 : y24
 puncher1 : y21
 puncher2 : y22
+puncher3 : y23
 
 vision 1 : d100
-
-vision 2 : d110
 
 blue count : d115
 metal count : d116
 green count : d117
 total count : d118
+trash count : d119
 
 emitt : y25
 remove : y 26,27,28
